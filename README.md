@@ -17,8 +17,9 @@ This project was created to assist with the submission of chapter 1 of “Data S
 
 ## Files
 
-* survey_results_public.csv -> the dataset used
+* survey_results_public.zip -> contains the dataset used, it has been zipped due to its size
 * Chapter1_Submission.ipynb -> the data analysis
+* Article folder -> contains the Article.md (which is the blog post/article required) and contains the images used within the article
 
 
 ## Libraries
